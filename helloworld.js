@@ -1,4 +1,4 @@
-console.log("I caused a merge conflict, get rekt");
+console.log("bigger knob");
 
 function addnums(numa, numb) {
     var result = numa + numb;
